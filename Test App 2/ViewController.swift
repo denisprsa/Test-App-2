@@ -10,7 +10,12 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    func id(id: Double)->Double{
+    func fromDoubleToInt(id: Double) -> Int{
+        
+        return 0;
+    }
+    
+    func fromIntToDouble(int: Int) -> Double{
         
         return 0.0;
     }
