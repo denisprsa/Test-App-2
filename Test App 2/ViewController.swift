@@ -20,6 +20,10 @@ class ViewController: UIViewController {
         return 0.0;
     }
     
+    func test(){
+        
+    }
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
